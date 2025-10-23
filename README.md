@@ -1,10 +1,8 @@
-## WELCOME TO TSWORLDTECH  
+# WELCOME TO TSWORLDTECH  
 
-##About TSWORLDTECH
-What We're Building
-TSWORLDTECH is a 3-in-1 digital ecosystem built to redefine how startups and enterprises interact with technology. We are developing an advanced voice assistant infrastructure that enables businesses to integrate voice experiences into their digital platforms seamlessly.
+**TSWORLDTECH** is a 3-in-1 digital ecosystem built to redefine how startups and enterprises interact with technology. We are developing an advanced voice assistant infrastructure that enables businesses to integrate voice experiences into their digital platforms seamlessly.
 
-Our Ecosystem
+## Our Ecosystem
 Portfolio: Showcases how the voice assistant operates in real time, giving visitors a clear vision of its capabilities and inspiring them to integrate it into their own platforms.
 Tech Agency: For startups or enterprises that want a custom integration, our team builds fully tailored voice experiences directly into their systems.
 Voice Assistant Product: For businesses that prefer ready to use integration, we provide direct access to our evolving voice infrastructure without needing a custom build.
