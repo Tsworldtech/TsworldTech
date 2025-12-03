@@ -42,21 +42,23 @@ Your assistant keeps improving through continuous learning
 
 
 <p align="center">
+  <!-- GitHub Profile Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Tsworldtech&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Tsworldtech's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsworldtech&theme=radical" alt="GitHub Streak" />
+
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tsworldtech&theme=radical" alt="GitHub Streak" />
+
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsworldtech&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<!--
-**Tsworldtech/TsworldTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Total Stars Badge (all public repos) -->
+  <img src="https://img.shields.io/github/stars/Tsworldtech?style=social" alt="GitHub Stars" />
+  <!-- Followers Badge -->
+  <img src="https://img.shields.io/github/followers/Tsworldtech?style=social" alt="GitHub Followers" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
