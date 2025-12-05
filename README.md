@@ -1,6 +1,6 @@
 # Abdullah Teslim
 Tech Lead · Full Stack Developer 👋  
-Founder & Tech Lead @ TSWORLDTECH — building scalable web platforms and AI driven experiences.
+Founder & Tech Lead @ TSWORLDTECH , building scalable web platforms and AI driven experiences.
 
 <p align="center">
   <img src="https://github.com/Tsworldtech.png" width="96" alt="avatar" />
@@ -15,24 +15,24 @@ Founder & Tech Lead @ TSWORLDTECH — building scalable web platforms and AI dri
 ---
 
 ## ✨ One line summary
-I design and build performant, scalable web apps and pragmatic AI integrations — specializing in Next.js, Node.js, and conversation and NLP driven experiences.
+I design and build performant, scalable web apps and pragmatic AI integrations ,specializing in Next.js, Node.js, and conversation and NLP driven experiences.
 
 ---
 
 ## 💡 About TSWORLDTECH
 TSWORLDTECH is a digital solutions studio I founded to deliver custom SaaS and product engineering with an emphasis on:
-- Next generation architecture (Next.js, Node.js, PostgreSQL)
-- AI and voice integrations (NLP, speech APIs)
-- Performance engineering and accessibility
-- Global ready apps with strong i18n
+ Next generation architecture (Next.js, Node.js, PostgreSQL)
+ AI and voice integrations (NLP, speech APIs)
+ Performance engineering and accessibility
+ Global ready apps with strong i18n
 
----
+
 
 ## 🔧 Services (Launching Soon)
-- Custom Web Development — Full stack (React / Next.js / Node.js)
-- AI Automation — NLP and voice integrations for workflow automation
-- Product Design — Human centered UX and accessible design
-- Technical Strategy — Architecture, cloud, and scaling guidance
+- Custom Web Development : Full stack (React / Next.js / Node.js)
+- AI Automation : NLP and voice integrations for workflow automation
+- Product Design : Human centered UX and accessible design
+- Technical Strategy :  Architecture, cloud, and scaling guidance
 
 ---
 
