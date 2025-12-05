@@ -58,7 +58,7 @@ TSWORLDTECH is a digital solutions studio I founded to deliver custom SaaS and p
 
 | Project | Status | Focus & Tech |
 |---|---:|---|
-|TSWORLDTEC Personalized  Tech | In development | AI voice assistant  · NLP · Next.js |
+|TSWORLDTECH Personalized  Tech | In development | AI voice assistant  · NLP · Next.js |
 | CraftLearn | In development | High performance Next.js  · Scalability |
 | CraftLink | Completed | High performance Next.js  · Scalability |
 
@@ -84,16 +84,6 @@ I’m open to senior engineering roles, tech leadership, and consulting.
 - LinkedIn: https://www.linkedin.com/in/tsworldtech/
 
 
-<p align="center">
-  <!-- GitHub Profile Stats Card (cache-busted by &v=TIMESTAMP) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Tsworldtech&show_icons=true&count_private=true&hide=prs&theme=radical&v=0" alt="Tsworldtech's GitHub stats" />
-
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tsworldtech&theme=radical&v=0" alt="GitHub Streak" />
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsworldtech&layout=compact&theme=radical&v=0" alt="Top Languages" />
-</p>
 
 
 
