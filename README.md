@@ -63,7 +63,7 @@ TSWORLDTECH is a digital solutions studio I founded to deliver custom SaaS and p
 | CraftLink | Completed | High performance Next.js  · Scalability |
 
 Links:
-- TSWORLDTEC Personalized  Tech (public README) — https://tsworld-tech.vercel.app
+- TSWORLDTECH Personalized  Tech (public README) — https://tsworld-tech.vercel.app
 - CraftLearn (public README) — https://craftlearn.vercel.app/
 - CraftLink (public README) —https://craftlinkhq.com/
 
