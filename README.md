@@ -58,13 +58,14 @@ TSWORLDTECH is a digital solutions studio I founded to deliver custom SaaS and p
 
 | Project | Status | Focus & Tech |
 |---|---:|---|
-| Personalized Business Tech | In development | AI voice assistant — Speech Recognition · NLP · Next.js |
-| Multilingual Global Portfolio | In development | High performance Next.js · i18n · Scalability |
-| Dynamic CMS Applications | Completed | Headless Strapi + Next.js integrations |
+|TSWORLDTEC Personalized  Tech | In development | AI voice assistant  · NLP · Next.js |
+| CraftLearn | In development | High performance Next.js  · Scalability |
+| CraftLink | Completed | High performance Next.js  · Scalability |
 
 Links:
-- Personalized Business Tech (public README) — (replace with link)
-- Multilingual Global Portfolio (public README) — (replace with link)
+- TSWORLDTEC Personalized  Tech (public README) — https://tsworld-tech.vercel.app
+- CraftLearn (public README) — https://craftlearn.vercel.app/
+- CraftLink (public README) —https://craftlinkhq.com/
 
 ---
 
