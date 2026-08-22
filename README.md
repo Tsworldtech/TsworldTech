@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/tslogo.png" width="90" alt="TSWorldTech" style="border-radius: 20%;" />
   &nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/Flux%20combination%20WHITE-02.png" width="90" alt="Flux" style="border-radius: 20%;" />
+  <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/Flux.png" width="90" alt="Flux" style="border-radius: 20%;" />
 </p>
 
 <h1 align="center">TSWORLDTECH</h1>
