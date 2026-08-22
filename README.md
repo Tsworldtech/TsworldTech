@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Tsworldtech.png" width="90" alt="TSWorldTech" style="border-radius: 20%;" />
   &nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;
-  <img src="https://drive.google.com/file/d/1IVnQx8ad0_4Fm5NBv5cLKmRm2fzToI4f/view?usp=drive_link" width="90" alt="Flux" style="border-radius: 20%;" />
+<img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTechFlux/main/public/assets/flux.png" width="90" alt="Flux" style="border-radius: 20%;" />
 </p>
 
 <h1 align="center">TSWORLDTECH</h1>
