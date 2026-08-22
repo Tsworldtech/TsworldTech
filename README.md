@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/tslogo.png" width="90" alt="TSWorldTech" style="border-radius: 20%;" />
-  &nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/Flux%20combination%20WHITE-02.png" width="90" alt="Flux" style="border-radius: 20%;" />
+  <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/tslogo.png" height="90" alt="TSWorldTech" style="vertical-align: middle;" />
+  <span style="display:inline-block; width:16px; height:16px; border-radius:50%; background:#2F81F7; margin:0 20px; vertical-align: middle;"></span>
+  <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/Flux%20combination%20WHITE-02.png" height="90" alt="Flux" style="vertical-align: middle;" />
 </p>
 
 <h1 align="center">TSWORLDTECH</h1>
