@@ -8,7 +8,7 @@
 <p align="center">Software Infrastructure Company · Creators of Flux · Lagos, Nigeria</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tsworldtech/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/company/tsworld-tech/">LinkedIn</a> ·
   <a href="https://x.com/tsworldtech">X</a> ·
   <a href="mailto:tsworldtech@gmail.com">Email</a>
 </p>
