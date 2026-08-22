@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/tslogo.png" height="160" alt="TSWorldTech" style="vertical-align: middle;" />
+  <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/tslogo.png" height="90" alt="TSWorldTech" style="vertical-align: middle;" />
   &nbsp;&nbsp;&nbsp;&nbsp;<b>·</b>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/Flux%20combination%20WHITE-02.png" height="190" alt="Flux" style="vertical-align: middle;" />
 </p>
