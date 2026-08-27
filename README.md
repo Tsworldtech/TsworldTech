@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/tslogo.png" width="90" alt="TSWorldTech" style="border-radius: 20%;" />
   &nbsp;&nbsp;&nbsp;&middot;&nbsp;&nbsp;&nbsp;
-  <img href="" src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/Flux.png" width="90" alt="Flux" style="border-radius: 20%;" />
+  <img  src="https://raw.githubusercontent.com/Tsworldtech/TsworldTech/main/Flux.png" width="90" alt="Flux" style="border-radius: 20%;" />
 </p>
 
 <h1 align="center">TSWORLDTECH</h1>
@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/company/tsworld-tech/">LinkedIn</a> ·
   <a href="https://x.com/tsworldtech">X</a> ·
   <a href="mailto:tsworldtech@gmail.com">Email</a>
+  <a href="https://tsworldtechflux.dev">Visit Flux</a>
 </p>
 
 ---
