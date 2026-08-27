@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/company/tsworld-tech/">LinkedIn</a> ·
   <a href="https://x.com/tsworldtech">X</a> ·
-  <a href="mailto:tsworldtech@gmail.com">Email</a>
+  <a href="mailto:tsworldtech@gmail.com">Email</a> ·
   <a href="https://tsworldtechflux.dev">Visit Flux</a>
 </p>
 
